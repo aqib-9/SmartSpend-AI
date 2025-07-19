@@ -5,7 +5,11 @@
 
 **SmartSpend AI** is a full-stack, AI-powered personal finance management application that automates expense tracking, budgeting, and financial insights. Users securely connect bank accounts, upload receipts, and receive real-time spending analytics and budget alerts without manual effort.
 
-Key capabilities:
+## 📖 Live Link
+http://smart-spend-eight.vercel.app/
+
+
+## Key capabilities:
 
 * **Automated Receipt Parsing:** Uses Gemini AI to extract and categorize transaction data from uploaded receipts.
 * **Real-Time Dashboards:** Displays interactive expense breakdowns, spending trends, and budget summaries via Shadcn UI components.
