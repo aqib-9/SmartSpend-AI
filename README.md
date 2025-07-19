@@ -1,6 +1,5 @@
 # SmartSpend AI
-
-![Project Logo](./docs/logo.png)
+<img width="1536" height="1024" alt="ChatGPT Image Jul 19, 2025, 12_21_46 PM" src="https://github.com/user-attachments/assets/903c15b7-b95e-4f6a-86af-0181c82695c3" />
 
 ## 📖 Project Overview
 
@@ -48,6 +47,10 @@ Key capabilities:
 * **AI & Automation:** Gemini AI API, Resend (email), Arcjet (rate limiting)
 * **Database:** PostgreSQL (via Supabase)
 * **Development:** TypeScript, VS Code, GitHub Actions
+* 
+
+## ⚙️ Database Structure
+<img width="739" height="496" alt="Screenshot 2025-07-09 015451" src="https://github.com/user-attachments/assets/d8a68b3c-0713-41d6-9aca-0461a5360438" />
 
 ## ⚙️ Installation
 
@@ -102,7 +105,13 @@ Key capabilities:
 
 ## 📸 Screenshots
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+<img width="942" height="414" alt="Screenshot 2025-07-19 121356" src="https://github.com/user-attachments/assets/8a27d8d3-7dc4-46cd-b238-9f8f47e721b3" />
+<img width="946" height="402" alt="Screenshot 2025-07-19 121407" src="https://github.com/user-attachments/assets/a61055fb-a6d9-4677-8ddf-a30fb9c33e1c" />
+<img width="960" height="540" alt="Screenshot 2025-07-19 121429" src="https://github.com/user-attachments/assets/dec24813-a94b-4ae0-8e96-a7d54a6898d4" />
+<img width="960" height="540" alt="Screenshot 2025-07-19 121553" src="https://github.com/user-attachments/assets/f0e9ebfe-04bc-432a-8550-196157018f0d" />
+<img width="960" height="540" alt="Screenshot 2025-07-19 121603" src="https://github.com/user-attachments/assets/bdca5340-d5e4-421a-8362-5b1cc85fa3c5" />
+<img width="960" height="540" alt="Screenshot 2025-07-19 121607" src="https://github.com/user-attachments/assets/581f0784-a217-4ead-b4ec-b6082bc66d12" />
+<img width="960" height="540" alt="Screenshot 2025-07-19 121622" src="https://github.com/user-attachments/assets/acaab3bd-e7e6-4cc2-ab74-f9590f262552" />
 
 <!--
 Insert screenshots from `docs/screenshots`:
